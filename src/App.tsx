@@ -44,7 +44,7 @@ function App() {
         <>
             <Navbar icon={<Logo />} title="Meme Generator" />
 
-            <div className="min-h-screen bg-zinc-900 flex items-center justify-center">
+            <div className="min-h-screen bg-zinc-900 flex items-start justify-center pt-10">
                 <div className="bg-white p-6 rounded-lg shadow-lg w-96">
                     <div className="mb-4">
                         <label className="block mb-2 text-gray-700 font-bold">
